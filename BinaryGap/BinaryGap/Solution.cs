@@ -3,9 +3,9 @@ using System.Linq;
 
 namespace BinaryGap;
 
-internal class BinaryCalculator
+internal class Solution
 {
-    public BinaryCalculator()
+    public Solution()
     {
     }
 

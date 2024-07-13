@@ -11,7 +11,7 @@ internal class Program
         {
             Console.WriteLine("---------------------------------------");
             Console.WriteLine($"Calculating {entry} ...");
-            var calc = new BinaryCalculator();
+            var calc = new Solution();
             var gapVal = calc.CalculateGap(entry);
 
             Console.WriteLine($"Gap value: {gapVal}");
