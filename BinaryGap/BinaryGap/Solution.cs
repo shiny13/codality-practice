@@ -1,4 +1,5 @@
-﻿using System.Diagnostics.Metrics;
+﻿using System.Collections;
+using System.Diagnostics.Metrics;
 using System.Linq;
 
 namespace BinaryGap;

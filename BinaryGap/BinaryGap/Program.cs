@@ -5,7 +5,7 @@ internal class Program
     private static void Main(string[] args)
     {
         Console.WriteLine("Welcome to Binary Gap.");
-        var entries = new List<int>() { 1, 2, 9, 15, 128, 144, 145, 147, 483, 647 };
+        var entries = new List<int>() { 1, 2, 9, 15, 32, 128, 144, 145, 147, 483, 647, 1041 };
 
         foreach (var entry in entries)
         {
